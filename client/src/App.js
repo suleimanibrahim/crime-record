@@ -6,7 +6,7 @@ import Home from './Components/Home.js'
 import PoliceHome from './Components/PoliceHome.js';
 import NewFIR from './Components/NewFIR.js';
 import ViewCase from './Components/ViewCase.js';
-import Forensics from './Components/Forensics.js';
+import Forensics from './Components/ForensicList.js';
 import ForensicsHome from './Components/ForensicHome.js'
 import ForensicUpdate from './Components/ViewForensic.js'
 

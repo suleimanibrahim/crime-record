@@ -2,13 +2,13 @@ import React, { Component } from "react";
 
 import {Router, Route, browserHistory, Redirect} from "react-router";
 
-import Home from './components/Home'
-import PoliceHome from './components/PoliceHome';
-import NewFIR from './components/NewFIR';
-import ViewCase from './components/ViewCase';
-import Forensics from './components/CrimeDetails/Forensics'
-import ForensicsHome from './components/ForensicHome.js'
-import ForensicUpdate from './components/ViewForensic.js'
+import Home from './Components/Home.js'
+import PoliceHome from './Components/PoliceHome.js';
+import NewFIR from './Components/NewFIR.js';
+import ViewCase from './Components/ViewCase.js';
+import Forensics from './Components/Forensics.js';
+import ForensicsHome from './Components/ForensicHome.js'
+import ForensicUpdate from './Components/ViewForensic.js'
 
 import "./App.css";
 
